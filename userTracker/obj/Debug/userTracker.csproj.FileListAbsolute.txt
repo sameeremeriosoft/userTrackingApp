@@ -1,0 +1,7 @@
+C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe.config
+C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.pdb
+C:\sleepApp\userTracker\userTracker\obj\Debug\userTracker.ProjectInstaller.resources
+C:\sleepApp\userTracker\userTracker\obj\Debug\userTracker.csproj.GenerateResource.Cache
+C:\sleepApp\userTracker\userTracker\obj\Debug\userTracker.exe
+C:\sleepApp\userTracker\userTracker\obj\Debug\userTracker.pdb

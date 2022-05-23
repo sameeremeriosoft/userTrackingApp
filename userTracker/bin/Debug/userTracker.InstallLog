@@ -1,0 +1,221 @@
+﻿Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing service UserTracker...
+Creating EventLog source UserTracker in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Restoring event log to previous state for source UserTracker.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing service UserTracker...
+Creating EventLog source UserTracker in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Restoring event log to previous state for source UserTracker.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing service UserTracker...
+Creating EventLog source UserTracker in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Restoring event log to previous state for source UserTracker.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing service UserTracker...
+Creating EventLog source UserTracker in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Restoring event log to previous state for source UserTracker.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing service UserTracker...
+Creating EventLog source UserTracker in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Restoring event log to previous state for source UserTracker.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing service UserTracker...
+Service UserTracker has been successfully installed.
+Creating EventLog source UserTracker in log Application...
+Committing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing service UserTracker...
+Creating EventLog source UserTracker in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Restoring event log to previous state for source UserTracker.
+Installing assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Installing service UserTracker...
+Creating EventLog source UserTracker in log Application...
+Rolling back assembly 'C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.exe
+   logfile = C:\sleepApp\userTracker\userTracker\bin\Debug\userTracker.InstallLog
+Restoring event log to previous state for source UserTracker.
